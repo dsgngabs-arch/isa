@@ -1,7 +1,8 @@
 import { Button } from "@/components/ui/button";
 import { MessageCircle, Zap, Lock, Users, HeadsetIcon, Lightbulb, Trophy } from "lucide-react";
 import { useState } from "react";
-
+import HERO_IMAGE from "../assets/hero pag.png";
+import MOBILE_IMAGE from "../assets/Prancheta 2.png";
 /**
  * Landing Page - Isa Exclusive Community
  * 
@@ -25,7 +26,7 @@ export default function Home() {
         {/* Background Image - Mobile Only */}
         <div className="absolute inset-0 w-full h-full md:hidden">
           <img
-            src="/manus-storage/hero-isabela-mobile_ac8feb74.png"
+            src={MOBILE_IMAGE}
             alt="Isa"
             className="w-full h-full object-cover"
           />
@@ -34,7 +35,7 @@ export default function Home() {
         {/* Background Image - Desktop Only */}
         <div className="absolute inset-0 w-full h-full hidden md:block">
           <img
-            src="/manus-storage/hero-isabela_575efdf1.png"
+            src={HERO_IMAGE}
             alt="Isa"
             className="w-full h-full object-cover"
           />
