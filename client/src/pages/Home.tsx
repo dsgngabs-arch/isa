@@ -61,7 +61,12 @@ export default function Home() {
 
               {/* CTA Button - Neon Glow Effect */}
               <div className="pt-4">
-                <a href="#section-02" className="inline-block w-full sm:w-auto">
+                <a
+  href="https://chat.whatsapp.com/CE0IEf7S84rB1lXazbXzRy?s=cl&p=a&mlu=1"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block w-full sm:w-auto"
+>
                   <button 
                     className="w-full sm:w-auto px-8 sm:px-10 py-4 sm:py-5 text-base sm:text-lg font-bold text-white rounded-xl transition-all duration-300 transform hover:scale-105 relative overflow-hidden group"
                     style={{
