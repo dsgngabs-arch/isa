@@ -164,7 +164,12 @@ export default function Home() {
 
           {/* CTA Button - Premium Neon Glow, Centered and Large */}
           <div className="flex justify-center pt-8">
-            <a href="#section-final" className="inline-block w-full md:w-auto max-w-md">
+            <a
+  href="https://chat.whatsapp.com/CE0IEf7S84rB1lXazbXzRy?s=cl&p=a&mlu=1"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block w-full md:w-auto max-w-md"
+>
               <button 
                 className="w-full md:w-auto px-10 md:px-14 py-5 md:py-6 text-lg md:text-xl font-bold text-white rounded-xl transition-all duration-300 transform hover:scale-110 relative overflow-hidden group"
                 style={{
