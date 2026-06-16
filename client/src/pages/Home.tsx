@@ -50,7 +50,7 @@ export default function Home() {
               {/* Headline - Modern, Digital, Feminine */}
               <div className="space-y-6">
                 <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl font-bold leading-tight tracking-tight" style={{ fontFamily: "'Outfit', sans-serif" }}>
-                  Aprenda Como Ativar <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#c0286e] to-[#e85a9e]" style={{ textShadow: '0 0 20px rgba(192, 40, 110, 0.8), 0 0 40px rgba(192, 40, 110, 0.5)' }}>RODADAS GRÁTIS</span> Sem Precisar Comprar Funcionalidade
+                  Aprenda Como Ativar as <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#c0286e] to-[#e85a9e]" style={{ textShadow: '0 0 20px rgba(192, 40, 110, 0.8), 0 0 40px rgba(192, 40, 110, 0.5)' }}>RODADAS GRÁTIS</span> sem Precisar Comprar Funcionalidade
                 </h1>
 
                 {/* Subheadline - Simplified */}
