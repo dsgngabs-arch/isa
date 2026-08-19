@@ -62,7 +62,7 @@ export default function Home() {
               {/* CTA Button - Neon Glow Effect */}
               <div className="pt-4">
                 <a
-  href="https://chat.whatsapp.com/HEnyTU4Q7AJ863R72dvqhU?s=sh&p=i&mlu=4&amv=1"
+  href="https://chat.whatsapp.com/BBFMuvFVgi7GITXHq6RtjN?s=cl&p=i&mlu=4&amv=0"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-block w-full sm:w-auto"
@@ -165,7 +165,7 @@ export default function Home() {
           {/* CTA Button - Premium Neon Glow, Centered and Large */}
           <div className="flex justify-center pt-8">
             <a
-  href="https://chat.whatsapp.com/HEnyTU4Q7AJ863R72dvqhU?s=sh&p=i&mlu=4&amv=1"
+  href="https://chat.whatsapp.com/BBFMuvFVgi7GITXHq6RtjN?s=cl&p=i&mlu=4&amv=0"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-block w-full md:w-auto max-w-md"
@@ -217,7 +217,7 @@ export default function Home() {
           {/* Final CTA Button */}
           <div className="pt-8">
             <a
-              href="https://chat.whatsapp.com/HEnyTU4Q7AJ863R72dvqhU?s=sh&p=i&mlu=4&amv=1"
+              href="https://chat.whatsapp.com/BBFMuvFVgi7GITXHq6RtjN?s=cl&p=i&mlu=4&amv=0"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block w-full md:w-auto"
