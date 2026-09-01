@@ -122,9 +122,9 @@ export default function Home() {
               },
               {
                 icon: Users,
-                title: "Compartilhamento da Comunidade",
+                title: "Sinais RPT da Isa",
                 description:
-                  "Acompanhe experiências e conteúdos compartilhados pelos participantes.",
+                  "Analise em tempo real, monitoramento contínuo para você jogar no melhor momento.",
               },
               {
                 icon: HeadsetIcon,
